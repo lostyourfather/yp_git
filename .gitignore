@@ -1,0 +1,7 @@
+.DS_Store
+*.jpg
+docs/*/tmp
+file?.txt
+doc[1-2].doc
+docs/**/tmp
+!important.jpeg
